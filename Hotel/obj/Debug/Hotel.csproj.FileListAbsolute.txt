@@ -1,0 +1,15 @@
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\golfl\Desktop\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\golfl\Desktop\Hotel\bin\Debug\Hotel.exe
+C:\Users\golfl\Desktop\Hotel\bin\Debug\Hotel.pdb
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.exe
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.pdb
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.Inicio.resources
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.View.Op.resources
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.View.Cadastro.resources
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.View.Consultar.resources
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.View.Excluir.resources
+C:\Users\golfl\Desktop\Hotel\obj\Debug\Hotel.View.Atualiza.resources

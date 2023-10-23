@@ -1,0 +1,10 @@
+D:\Projects\CrudWindowsForm\Crud\Listar\bin\Debug\Listar.exe.config
+D:\Projects\CrudWindowsForm\Crud\Listar\bin\Debug\Listar.exe
+D:\Projects\CrudWindowsForm\Crud\Listar\bin\Debug\Listar.pdb
+D:\Projects\CrudWindowsForm\Crud\Listar\obj\Debug\Listar.csproj.AssemblyReference.cache
+D:\Projects\CrudWindowsForm\Crud\Listar\obj\Debug\Listar.Form1.resources
+D:\Projects\CrudWindowsForm\Crud\Listar\obj\Debug\Listar.Properties.Resources.resources
+D:\Projects\CrudWindowsForm\Crud\Listar\obj\Debug\Listar.csproj.GenerateResource.cache
+D:\Projects\CrudWindowsForm\Crud\Listar\obj\Debug\Listar.csproj.CoreCompileInputs.cache
+D:\Projects\CrudWindowsForm\Crud\Listar\obj\Debug\Listar.exe
+D:\Projects\CrudWindowsForm\Crud\Listar\obj\Debug\Listar.pdb

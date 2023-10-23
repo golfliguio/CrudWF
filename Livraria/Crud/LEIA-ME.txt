@@ -1,0 +1,44 @@
+Instruçoes:
+
+- O script para o banco de dados se encontra junto com o projeto na pasta "script de banco de dados"
+-Usar sql server - é interesssante usar no propeio sql o comando " select * from livro" para verificar se o aplicativo está salvando
+-Ápos usar o script é necessario ligar o visual studio a tabela que foi criada no sqlserver
+
+
+no visual studio vá em EXIBIR >GERENCIADOR DE SERVIDORES> NA ABA QUE SE ABRIR ESCOLHA A OPÇAO CONECTAR-SE A UM BANCO DE DADOS>
+> CONFIGURE DE ACORDO COM A CONFIGURAÇAO QUE VOCE FEZ NO SQL SERVER.
+
+-Ainda na guia conexao de dados, ao clicar com o botao diretio na conexao que foi criada > prorpiedades>
+voce devera copiar a string de conexao do seu banco(mais ou menos um codigo como este :Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True
+
+-na aba gerenciador de soluçoes , vá em conexao.cs> no metodo abrir conexao, apos  Con = new SqlConnection substitua a string de conexão que está la
+pela da sua maquina que voce acabou de copia, a conexao será feita sem dor de cabeça.
+
+Apos estes passos de conexao com o banco segue explicação do codigo:
+
+o Aplicativo foi desenvolvido com c# e windows forms
+
+A tela inicio possibilita a escolha da operaçao a ser feita(cadastrar, excluir ou alterar)
+
+A tela cadastro faz o cadastro do livro no banco
+
+a tela excluir faz a retirado dos dados de um livro do banco( feito de acordo com o 
+numero da chave salva no banco - Atenção!)
+
+na tela Atualiza, a partir do codigo do livro, deve clicar em pesquisar
+será retornado informaçoes do livro de acordo com o codigo
+é possivel fazer a alteraçao destes dados modificando os campos,
+e clicando em atualizar.
+
+Como o tempo foi curto, ficou bem simples o aplicativo, mas funciona tudo.
+
+NA PASTA 'EXECUTAR'  ESTÁ O ARQUIVO 'Crud' QUE EXECUTA A APLICAÇÃO SEM NECESSIDADE DO VISUAL STUDIO!!!
+
+Qualquer duvida me avise.
+
+
+
+
+
+
+
